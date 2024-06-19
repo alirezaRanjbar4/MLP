@@ -1,0 +1,14 @@
+C:\Users\rangbar.a\source\repos\MLP\MLP\bin\Debug\net8.0\MLP.exe
+C:\Users\rangbar.a\source\repos\MLP\MLP\bin\Debug\net8.0\MLP.deps.json
+C:\Users\rangbar.a\source\repos\MLP\MLP\bin\Debug\net8.0\MLP.runtimeconfig.json
+C:\Users\rangbar.a\source\repos\MLP\MLP\bin\Debug\net8.0\MLP.dll
+C:\Users\rangbar.a\source\repos\MLP\MLP\bin\Debug\net8.0\MLP.pdb
+C:\Users\rangbar.a\source\repos\MLP\MLP\obj\Debug\net8.0\MLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rangbar.a\source\repos\MLP\MLP\obj\Debug\net8.0\MLP.AssemblyInfoInputs.cache
+C:\Users\rangbar.a\source\repos\MLP\MLP\obj\Debug\net8.0\MLP.AssemblyInfo.cs
+C:\Users\rangbar.a\source\repos\MLP\MLP\obj\Debug\net8.0\MLP.csproj.CoreCompileInputs.cache
+C:\Users\rangbar.a\source\repos\MLP\MLP\obj\Debug\net8.0\MLP.dll
+C:\Users\rangbar.a\source\repos\MLP\MLP\obj\Debug\net8.0\refint\MLP.dll
+C:\Users\rangbar.a\source\repos\MLP\MLP\obj\Debug\net8.0\MLP.pdb
+C:\Users\rangbar.a\source\repos\MLP\MLP\obj\Debug\net8.0\MLP.genruntimeconfig.cache
+C:\Users\rangbar.a\source\repos\MLP\MLP\obj\Debug\net8.0\ref\MLP.dll
